@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KushagraSikka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka)](https://github.com/KushagraSikka/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KushagraSikka&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=5&theme=tokyonight)]()
+
 
 
 - 🔭 I’m currently working on ...
