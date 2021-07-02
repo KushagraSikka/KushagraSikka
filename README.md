@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KushagraSikka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka)](https://github.com/KushagraSikka/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
