@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KushagraSikka)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
