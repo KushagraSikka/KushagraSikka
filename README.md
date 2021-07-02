@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hey! I'm Kushagra<img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1 align="center">Hey! I'm Kushagra<img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 <h3 align="center">🔸🔹 Data Science and Machine Learning 🔹🔸</h3>
 <div>
 <div align="left"> 
@@ -62,4 +62,4 @@
 <br>
 
 ⭐ From [Kushagra-Sikka](https://github.com/KushagraSikka)
- -->
+ 
