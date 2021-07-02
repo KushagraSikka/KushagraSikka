@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-https://github-readme-stats.vercel.app/api?username=KushagraSikka)](https://github.com/KushagraSikka/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
