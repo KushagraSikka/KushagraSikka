@@ -19,8 +19,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 [2]: https://www.linkedin.com/in/kushagrasikka/
 
 
+> Self-motivated Software Engineer, exploring new technologies and aspiring to learn new skills while working with creative people.
 
-@settings {
-  font-size: 100;
-}
-Kushagra Sikka
