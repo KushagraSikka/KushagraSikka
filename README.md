@@ -4,8 +4,8 @@
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
-  - 🎓 &nbsp; student at Manipal University Jaipur.
-  - 🌱 &nbsp; Focusing on topics like Cloud Computing and Blockchain.
+  - 🎓 &nbsp; student at University of Florida.
+  - 🌱 &nbsp; Focusing on topics like Cloud Computing and DevOps.
   - ✍️ &nbsp; Upgrading skills on data structures and algorithms
   
     
