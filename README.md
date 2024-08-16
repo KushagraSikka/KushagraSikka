@@ -25,11 +25,6 @@
 <hr>
 <br>
 
-
- ![Kushagra's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KushagraSikka&theme=xcode)
- <p align ="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSikka&theme=black-ice" />
-  </p>
  
 <br>
 <hr>
