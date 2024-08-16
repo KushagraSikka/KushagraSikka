@@ -4,7 +4,7 @@
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
-  - 🎓 &nbsp; student at University of Florida.
+  - 🎓 &nbsp; Student at University of Florida.
   - 🌱 &nbsp; Focusing on topics like DevOps and ML.
   - ✍️ &nbsp; Upgrading skills on data structures and algorithms
   
