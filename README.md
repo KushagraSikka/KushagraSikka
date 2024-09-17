@@ -26,31 +26,31 @@
 <ul>
   <li>
     <strong><a href="https://github.com/KushagraSikka/Gator_taxi_maintenance_">GatorTaxi Ride-Share Service</a></strong> - A ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides with O(log n) complexity, offering optimal performance for real-time ride management.
-    <br><strong>Technologies:</strong> 
+    <br><strong>Technologies:</strong>
     <br> 
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Red-Black Tree](https://img.shields.io/badge/Red--Black%20Tree-228B22?style=for-the-badge)
-    ![Min-Heap](https://img.shields.io/badge/Min--Heap-FFD700?style=for-the-badge)
-    ![Makefile](https://img.shields.io/badge/Makefile-1E90FF?style=for-the-badge)
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Red--Black%20Tree-228B22?style=for-the-badge" alt="Red-Black Tree">
+    <img src="https://img.shields.io/badge/Min--Heap-FFD700?style=for-the-badge" alt="Min-Heap">
+    <img src="https://img.shields.io/badge/Makefile-1E90FF?style=for-the-badge" alt="Makefile">
   </li>
   <li>
     <strong><a href="https://github.com/KushagraSikka/RAG_Microservice-">RAG Microservice</a></strong> - A scalable question-answering service utilizing the Retriever-Answer Generator (RAG) architecture. This microservice efficiently retrieves relevant documents and generates precise answers for complex queries. Deployed with Docker and supports API calls for retrieving answers based on the question asked.
     <br><strong>Technologies:</strong>
     <br> 
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![API](https://img.shields.io/badge/API-008080?style=for-the-badge)
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge" alt="RAG">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/API-008080?style=for-the-badge" alt="API">
   </li>
   <li>
     <strong><a href="https://github.com/KushagraSikka/Incident_Data_Enrichment_Project">Incident Data Enrichment Project</a></strong> - A data augmentation project that processes incident reports extracted from PDFs and enriches them with additional attributes such as weather conditions, location ranks, and EMS status. This project implements various data handling techniques, including geolocation and weather API integrations.
     <br><strong>Technologies:</strong>
     <br> 
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![Open-Meteo API](https://img.shields.io/badge/Open--Meteo%20API-4682B4?style=for-the-badge)
-    ![Google Geocoding API](https://img.shields.io/badge/Google%20Geocoding%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
-    ![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-FFD700?style=for-the-badge)
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/Open--Meteo%20API-4682B4?style=for-the-badge" alt="Open-Meteo API">
+    <img src="https://img.shields.io/badge/Google%20Geocoding%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Geocoding API">
+    <img src="https://img.shields.io/badge/Data%20Augmentation-FFD700?style=for-the-badge" alt="Data Augmentation">
   </li>
 </ul>
 <br>
