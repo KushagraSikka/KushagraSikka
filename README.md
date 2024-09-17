@@ -19,7 +19,18 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=10&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=20&theme=radical" />
 </a>
+<h2>🛠 Recent Projects:</h2>
 
+<ul>
+  <li>
+    <strong><a href="https://github.com/KushagraSikka/Gator_taxi_maintenance_">GatorTaxi Ride-Share Service</a></strong> - A ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides with O(log n) complexity, offering optimal performance for real-time ride management.
+    <br><strong>Technologies:</strong> Python, Red-Black Tree, Min-Heap, Makefile
+  </li>
+  <li>
+    <strong><a href="https://github.com/KushagraSikka/RAG_Microservice-">RAG Microservice</a></strong> - A scalable question-answering service utilizing the Retriever-Answer Generator (RAG) architecture. This microservice efficiently retrieves relevant documents and generates precise answers for complex queries. Deployed with Docker and supports API calls for retrieving answers based on the question asked.
+    <br><strong>Technologies:</strong> Python, Docker, Jupyter Notebook, RAG Architecture
+  </li>
+</ul>
 <br>
 <hr>
 <br>
@@ -38,7 +49,6 @@
   <img src="https://img.shields.io/badge/GitLab-CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
-
 
  <a href="https://www.linkedin.com/in/KushagraSikka/">
    <img align="left" alt="KushagraSikka | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
