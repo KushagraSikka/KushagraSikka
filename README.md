@@ -73,7 +73,7 @@
 - **Cloud Services**:  
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="25"/> AWS (EC2, S3, RDS, SageMaker, Lambda),
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="25"/> GCP,
-  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="25"/> Azure
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25"/> Azure
 
 - **CI/CD Tools**:  
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
