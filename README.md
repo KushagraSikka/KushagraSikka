@@ -61,8 +61,34 @@
 
 <h2>Technical Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, Java, Bash, Go, YAML</li>
+  <li><strong>Programming Languages:</strong> Python, Java, Bash</li>
   
+  ### 🛠 Technical Skills
+
+- **Programming Languages**:  
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python,
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="25"/> C++,
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="25"/> Java,
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="25"/> Ruby
+
+- **Cloud Services**:  
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="25"/> AWS (EC2, S3, RDS, SageMaker, Lambda),
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="25"/> GCP,
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="25"/> Azure
+
+- **CI/CD Tools**:  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI/CD" width="25"/> GitLab CI/CD,
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25"/> Docker,
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="25"/> Jenkins,
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="25"/> Postman,
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="25"/> Kubernetes
+
+- **Infrastructure as Code (IaC)**:  
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="25"/> Terraform
+
+- **Monitoring and Logging**:  
+ <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="25"/> ELK Stack (Elasticsearch, Logstash, Kibana)
   <li><strong>DevOps Tools:</strong>
     <br> 
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
