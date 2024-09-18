@@ -80,7 +80,7 @@
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI/CD" width="25"/> GitLab CI/CD,
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25"/> Docker,
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="25"/> Jenkins,
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25"/>,
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25"/> Postman,
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="25"/> Kubernetes
 
 - **Infrastructure as Code (IaC)**:  
