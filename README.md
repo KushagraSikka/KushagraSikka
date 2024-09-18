@@ -91,7 +91,7 @@
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="25"/> Terraform
 
 - **Monitoring and Logging**:  
-  <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="25"/> ELK Stack (Elasticsearch, Logstash, Kibana)
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="ELK Stack" width="25"/> ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ### 🤖 Machine Learning Tools and Frameworks:
 
