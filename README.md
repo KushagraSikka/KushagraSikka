@@ -61,10 +61,6 @@
 
 <h2>Technical Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, Java, Bash</li>
-  
-  ### 🛠 Technical Skills
-<h2>Technical Skills</h2>
 
 ### 🛠 DevOps Skills
 
