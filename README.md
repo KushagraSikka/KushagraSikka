@@ -2,9 +2,10 @@
 
 <div>
 <div align="left"> 
-  <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
+  <h3> <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" width="50"> About Me </h3>
+  <!-- ### About Me &nbsp; <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" alt="GitHub" width="25"/> -->
 
-- 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="60"/></a> University of Florida.
+- 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
 - 🌱 &nbsp; Focusing on topics like DevOps and ML.
 - ✍️ &nbsp; Upgrading skills on data structures and algorithms
 
