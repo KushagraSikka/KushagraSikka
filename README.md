@@ -4,7 +4,7 @@
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
-- 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="20"/></a> University of Florida.
+- 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="60"/></a> University of Florida.
 - 🌱 &nbsp; Focusing on topics like DevOps and ML.
 - ✍️ &nbsp; Upgrading skills on data structures and algorithms
 
