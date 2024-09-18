@@ -64,6 +64,9 @@
   <li><strong>Programming Languages:</strong> Python, Java, Bash</li>
   
   ### 🛠 Technical Skills
+<h2>Technical Skills</h2>
+
+### 🛠 DevOps Skills
 
 - **Programming Languages**:  
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python,
@@ -74,6 +77,7 @@
 - **Cloud Services**:  
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="25"/> AWS (EC2, S3, RDS, SageMaker, Lambda),
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="25"/> GCP,
+  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="25"/> Azure
 
 - **CI/CD Tools**:  
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
@@ -87,9 +91,44 @@
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="25"/> Terraform
 
 - **Monitoring and Logging**:  
+  <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="25"/> ELK Stack (Elasticsearch, Logstash, Kibana)
+
+### 🤖 Machine Learning Tools and Frameworks:
+
+- **ML Frameworks**:  
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFDA66?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+
+<!--
+- **Programming Languages**:
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python,
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="25"/> C++,
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="25"/> Java,
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="25"/> Ruby
+
+- **Cloud Services**:
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="25"/> AWS (EC2, S3, RDS, SageMaker, Lambda),
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="25"/> GCP,
+
+- **CI/CD Tools**:
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI/CD" width="25"/> GitLab CI/CD,
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25"/> Docker,
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="25"/> Jenkins,
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25"/> Postman,
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="25"/> Kubernetes
+
+- **Infrastructure as Code (IaC)**:
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="25"/> Terraform
+
+- **Monitoring and Logging**:
  <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="25"/> ELK Stack (Elasticsearch, Logstash, Kibana)
   <li><strong>DevOps Tools:</strong>
-    <br> 
+    <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
@@ -101,9 +140,9 @@
     <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   </li>
-  
+
   <li><strong>Machine Learning Tools and Frameworks:</strong>
-    <br> 
+    <br>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
@@ -115,7 +154,7 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   </li>
-</ul>
+</ul> -->
 
  <a href="https://www.linkedin.com/in/KushagraSikka/">
    <img align="left" alt="KushagraSikka | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
