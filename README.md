@@ -74,14 +74,13 @@
 - **Cloud Services**:  
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="25"/> AWS (EC2, S3, RDS, SageMaker, Lambda),
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="25"/> GCP,
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="25"/> Azure
 
 - **CI/CD Tools**:  
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="25"/> Git,
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI/CD" width="25"/> GitLab CI/CD,
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25"/> Docker,
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="25"/> Jenkins,
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="25"/> Postman,
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25"/>,
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="25"/> Kubernetes
 
 - **Infrastructure as Code (IaC)**:  
