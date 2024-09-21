@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
 - 🌱 &nbsp; Focusing on topics like DevOps and ML.
-- ✍️ &nbsp; Upgrading skills on data structures and algorithms
+- ✍️ &nbsp; Learning new things everyday
 
 </div> 
 <br>
