@@ -13,6 +13,13 @@
 <br>
 <h2>Contributions:</h2>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                    
 <br>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical" />
