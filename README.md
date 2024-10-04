@@ -6,7 +6,7 @@
   <!-- ### About Me &nbsp; <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" alt="GitHub" width="25"/> -->
 
 - 🎓 &nbsp; Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
-- 🌱 &nbsp; Focusing on topics like DevOps and ML.
+- 🌱 &nbsp; Finding full time DevOps and Data Engineer roles.
 - ✍️ &nbsp; Learning new things everyday
 
 </div> 
