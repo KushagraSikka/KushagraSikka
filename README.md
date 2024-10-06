@@ -14,7 +14,7 @@
 <h2>Contributions:</h2>
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### 📈 Welcome to my GitHub, Give me an interview xD():
 
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
