@@ -32,6 +32,7 @@
 <ul>
   <li>
     <h4><a href ="https://www.researchgate.net/profile/Kushagra-Sikka-2">Check out research i've co-authored in </h4>
+        <h4><a href ="https://www.researchgate.net/profile/Kushagra-Sikka-2"> Personal portfolio sort of website i made a while back </h4>  
 <h2>🛠 Recent Projects:</h2>
 <ul>
   <li>
