@@ -8,7 +8,9 @@
 - 🎓 &nbsp; Computer Science Grad Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
 - 🌱 &nbsp; Finding full time DevOps and Data Engineer roles.
 - ✍️ &nbsp; Learning new things everyday
-
+- ✍️ &nbsp; i love math and logic
+  
+  
 </div> 
 <br>
 <h2>Contributions:</h2>
