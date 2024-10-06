@@ -66,9 +66,7 @@
 <br>
 <hr>
 <br>
-<br>
-<hr>
-<br>
+
 
 <h2>Technical Skills</h2>
 <ul>
