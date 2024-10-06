@@ -27,6 +27,11 @@
 <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=10&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=20&theme=radical" />
 </a> -->
+
+<h2>Contributions:</h2>
+<ul>
+  <li>
+    <h4><a href ="https://www.researchgate.net/profile/Kushagra-Sikka-2">Check out research i've co-authored in </h4>
 <h2>🛠 Recent Projects:</h2>
 <ul>
   <li>
