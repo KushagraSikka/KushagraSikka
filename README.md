@@ -112,7 +112,8 @@
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFDA66?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 
-
+![BEPb's github activity graph](https://github.com/developer-kush/developer-kush/blob/main/README/techstack.svg)
+https://github.com/developer-kush/developer-kush/blob/main/README/techstack.svg
 
  <a href="https://www.linkedin.com/in/KushagraSikka/">
    <img align="left" alt="KushagraSikka | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
