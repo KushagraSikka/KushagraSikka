@@ -23,9 +23,9 @@
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical" />
 </a> -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=10&theme=radical">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=10&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=20&theme=radical" />
-</a>
+</a> -->
 <h2>🛠 Recent Projects:</h2>
 <ul>
   <li>
