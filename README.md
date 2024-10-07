@@ -9,8 +9,8 @@
 - 🌱 &nbsp; Finding full time DevOps and Data Engineer roles.
 - ✍️ &nbsp; Learning new things everyday
 - ✍️ &nbsp; i love math and logic
-
- ![Lets F'in Go]("https://github.com/Wilfred/Learning-Cuis/blob/master/CuisLiftsAboveItsWeight.png")
+[
+ ![Lets F'in Go](https://github.com/Wilfred/Learning-Cuis/blob/master/CuisLiftsAboveItsWeight.png?raw=true)
   
   
 </div> 
