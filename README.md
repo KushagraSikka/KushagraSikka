@@ -5,6 +5,8 @@
   <h3> <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" width="50"> About Me </h3>
   <!-- ### About Me &nbsp; <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" alt="GitHub" width="25"/> -->
 
+  
+
 - 🎓 &nbsp; Computer Science Grad Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
 - 🌱 &nbsp; Finding full time DevOps and Data Engineer roles.
 - ✍️ &nbsp; Learning new things everyday
