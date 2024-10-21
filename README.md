@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Kushagra+Sikka!;” />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Kushagra+Sikka!;" />
 </h1>
-
 <div>
 <div align="left"> 
   <h3> <img src="https://img.icons8.com/ios-glyphs/30/000000/source-code.png" width="50"> About Me </h3>
