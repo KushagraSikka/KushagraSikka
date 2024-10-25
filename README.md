@@ -135,5 +135,5 @@
 </div>
 <br>
 <br>
-
+ <img src="https://profile-counter.glitch.me/KushagraSikka/count.svg" alt="" />
 ⭐ From [Kushagra-Sikka](https://github.com/KushagraSikka)
