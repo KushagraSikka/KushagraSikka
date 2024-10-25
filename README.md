@@ -19,6 +19,7 @@
   
   
 </div> 
+[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushagraSikka)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h2>Contributions:</h2>
 
