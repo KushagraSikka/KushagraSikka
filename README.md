@@ -17,7 +17,7 @@
 
 ![Lets F'in Go](https://github.com/Wilfred/Learning-Cuis/blob/master/CuisLiftsAboveItsWeight.png?raw=true)
   
-  
+![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical)
 </div> 
 
 <br>
