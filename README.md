@@ -135,7 +135,7 @@
 </div>
 <br>
 
- 
+ <h2>Profile Visit Counter:</h2>
  <img src="https://profile-counter.glitch.me/KushagraSikka/count.svg" alt="" />
 <br>
 
