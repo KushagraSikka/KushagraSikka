@@ -80,7 +80,7 @@
 <br>
 
 
-<h2>Technical Skills</h2>
+<h2>  Technical Skills  </h2>
 <ul>
 
 ### 🛠 DevOps Skills
