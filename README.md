@@ -12,6 +12,7 @@
 - 🌱 &nbsp; Finding full time DevOps and Data Engineer roles.
 - ✍️ &nbsp; Learning new things everyday
 - ✍️ &nbsp; i love math and logic
+- ⌛ Half a decade of experience in programming.
 
 - Here is a 10x Dev on duty(i'm not refering to myself xD)
 
