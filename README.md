@@ -9,8 +9,6 @@
   
 
 - 🎓 &nbsp; Computer Science Grad Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
-- 🌱 &nbsp; Finding full time Roles in Data Analysis, SWE
-- ✍️ &nbsp; Learning new things everyday
 - ✍️ &nbsp; i love math and logic
 
 
