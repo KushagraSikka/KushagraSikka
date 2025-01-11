@@ -82,7 +82,7 @@
 <h2>  Technical Skills  </h2>
 <ul>
 
-### 🛠 DevOps Skills
+### 🛠 My Skill Set 
 
 - **Programming Languages**:  
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python,
