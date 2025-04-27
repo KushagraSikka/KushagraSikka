@@ -23,7 +23,7 @@
 <h2>Contributions:</h2>
 
 <!--   GitHub stats graph -->
-### 📈 Welcome to my GitHub, Give me an interview xD():
+### 📈 Welcome to my GitHub.
 ### Reach out at kushagrasikka@gmail.com / kushagrasikka@ufl.edu / info@kushagrasikka.com
 
 <!--   green snake -->
