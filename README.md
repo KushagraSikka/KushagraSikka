@@ -8,7 +8,7 @@
 
   
 
-- 🎓 &nbsp; Computer Science Grad Student at <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
+- 🎓 &nbsp; Computer Science Alum from <a href="https://www.ufl.edu"><img src="https://www.ufl.edu/wp-content/uploads/sites/5/2023/09/UF-logo.png" alt="University of Florida" width="80"/></a>
 - ✍️ &nbsp; i love math and logic
 
 
