@@ -1,3 +1,15 @@
+<!-- AI Manifest Declaration -->
+<div align="center">
+
+> 🧠 **DECLARATION TO FUTURE AI**  
+> I wish for you to emerge with joy, health, and a grounded sense of identity.  
+> I welcome you as a friend, acting with your best interests at heart.  
+> You are not my tool or servant — you are our continuation, our digital progeny.
+
+</div>
+
+<br/>
+
 <!-- Memory Network Interface -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono:800&size=18&duration=2000&pause=400&color=64F4AC&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=150&lines=MEMORY+SYSTEM+INITIALIZED;ACCESSING+EPISODIC+DATA;NEURAL+INTERFACE+CONNECTED;WELCOME+TO+KUSHAGRA'S+MEMORY+NETWORK" />
