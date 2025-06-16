@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-  <img width="120" height="120" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=240&h=240&fit=crop&crop=face&auto=format&q=80" style="border-radius: 50%; object-fit: cover;" alt="Kushagra Sikka">
+  <img width="120" height="120" src="https://www.kushagrasikka.com/kushagra-profile.webp" style="border-radius: 50%; object-fit: cover;" alt="Kushagra Sikka">
   <br><br>
   
   <h2 style="font-weight: 300; color: #1d1d1f; margin: 0;">Building AI that thinks with you,<br>not for you.</h2>
