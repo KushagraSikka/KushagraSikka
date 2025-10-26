@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <a href="https://github.com/KushagraSikka">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=008080&width=435&lines=Hi+there!+I'm+Mustaq+Sohail+Shaik;Full+Stack+Developer;Generative+AI+Learner;Software+Developer" alt="Typing SVG" />
