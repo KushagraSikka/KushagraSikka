@@ -1,212 +1,147 @@
-# Hello, I'm Kushagra
+```markdown
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Mustaq+Sohail+Shaik!%F0%9F%91%BBSemiconductor+Engineer+Turned+Full+Stack+Developer" alt="Typing SVG" />
+  <p><i>"i like neural nets"</i></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=25" alt="Header Banner"/>
+
+<div align="justify">
+  <p>
+    Driven by a fascination for neural networks, I transitioned from a background in Semiconductor Engineering to become a Full Stack Developer. My journey has been about connecting the dots between hardware intricacies and software solutions, culminating in my current role at NeuraScribe AI in Washington, DC. I'm passionate about building scalable, AI-driven applications and architecting solutions that leverage the power of generative AI. As a lifelong learner, I'm constantly exploring new technologies and methodologies to enhance my skills and contribute to the ever-evolving landscape of software development.
+  </p>
+  <p>
+    My experiences, from mentoring aspiring web developers to contributing to real-world AI applications, have shaped my approach to problem-solving and innovation. I thrive in collaborative environments and am always eager to connect with fellow developers and AI enthusiasts.
+  </p>
+</div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Tech%20Stack&fontSize=20" alt="Tech Stack Banner"/>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,flask,fastapi,postgres,supabase,firebase,aws,azure,vercel,render,githubactions,docker,git,github,vscode,jupyter,bootstrap,tailwindcss,sqlalchemy,openai,Claude,Gemini,Ollama,HuggingFace" alt="Skills" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=GitHub%20Stats&fontSize=20" alt="GitHub Stats Banner"/>
+      <p align="center">
+        <a href="https://github.com/KushagraSikka">
+          <img src="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&locale=en&theme=radical" alt="github stats"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/KushagraSikka">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSikka&theme=radical" alt="github streak stats"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Featured%20Projects&fontSize=25" alt="Featured Projects Banner"/>
+
+<table width="100%">
+<tr>
+<td width="50%">
+  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+    <b>portfolio</b>
+    <p>A modern, responsive portfolio template. JSON-driven content, beautiful design, and easy customization.</p>
+    <a href="https://github.com/KushagraSikka/portfolio">View on GitHub</a>
+    <br>
+    <small>JavaScript, CSS, Shell, HTML</small>
+  </div>
+</td>
+<td width="50%">
+  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+    <b>gatordwelling2</b>
+    <p>Interactive application built for continuous learning</p>
+    <a href="https://github.com/KushagraSikka/gatordwelling2">View on GitHub</a>
+    <br>
+    <small>JavaScript, CSS, HTML, Python</small>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+    <b>minikeyvalue</b>
+    <p>Interactive application built for continuous learning</p>
+    <a href="https://github.com/KushagraSikka/minikeyvalue">View on GitHub</a>
+    <br>
+    <small>Go, Python, Shell, Dockerfile</small>
+  </div>
+</td>
+<td width="50%">
+  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+    <b>bank-app-spring-cloud-microservices</b>
+    <p>Practice repository for exploring advanced features</p>
+    <a href="https://github.com/KushagraSikka/bank-app-spring-cloud-microservices">View on GitHub</a>
+    <br>
+    <small>Java</small>
+  </div>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Experience&fontSize=25" alt="Experience Banner"/>
+
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <b>Progress Solutions Inc.</b><br>
+      Jr. Full Stack Developer Intern<br>
+      August 2025 - Present (Remote)
+    </td>
+    <td width="70%" valign="top">
+      Developed full-stack Al-driven applications integrating LLM and generative Al capabilities. Built and maintained scalable web applications using React, Next.js, Python, Node.js, and FastAPI. Integrated LLM APIs (OpenAI, Anthropic, Hugging Face). Architected and optimized RAG pipelines. Implemented performance optimization strategies.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Northern Arizona University</b><br>
+      Teaching Assistant - Web Technologies<br>
+      January 2025 - May 2025
+    </td>
+    <td width="70%" valign="top">
+      Mentored 40+ students in developing responsive web applications. Facilitated weekly live sessions and conducted 1-on-1 troubleshooting. Designed and delivered hands-on technical examples. Reviewed assignments and provided actionable feedback, improving student success rates by 30%.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Smart Internz</b><br>
+      Salesforce Developer Intern<br>
+      August 2022 - October 2022
+    </td>
+    <td width="70%" valign="top">
+      Developed business automation workflows using Flows and Validation Rules. Wrote Apex triggers and test classes. Built and deployed Lightning Web Components (LWC). Integrated third-party APIs into Salesforce using REST API endpoints.
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Contact%20Me&fontSize=25" alt="Contact Me Banner"/>
 
 <div align="center">
-  <br>
-<!--   <img width="120" height="120" src="https://www.kushagrasikka.com/kushagra-profile.webp" style="border-radius: 50%; object-fit: cover;" alt="Kushagra Sikka"> -->
-  <br><br>
-  
-  <h2 style="font-weight: 300; color: #1d1d1f; margin: 0;">Building AI that thinks with you,<br>not for you.</h2>
-  
-  <p style="font-size: 19px; color: #86868b; font-weight: 400; margin: 24px 0 32px 0; max-width: 580px;">
-    I'm creating NeuraScribe — AI that becomes a seamless extension of your memory and thinking, helping you connect ideas and insights in ways that feel completely natural.
-  </p>
-  
-  <a href="https://neurascribe.ai" style="display: inline-block; background: #0071e3; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 400; font-size: 17px;">
-    Explore NeuraScribe
-  </a>
-  
-  <br><br><br>
-</div>
-
----
-
-<br>
-
-## The Vision
-
-<div style="max-width: 800px; margin: 0 auto;">
-
-> *"The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it."*
-
-What if AI didn't replace human thinking, but amplified it? What if technology could learn how **you** process information, remember details, and make connections — then become an invisible extension of your mind?
-
-That's the future I'm building with **NeuraScribe**.
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-## What I'm Creating
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 48px; max-width: 1000px; margin: 0 auto;">
-
-<div>
-  <h3 style="color: #0071e3; font-weight: 600; margin-bottom: 16px;">🧠 NeuraScribe AI</h3>
-  <p style="color: #1d1d1f; line-height: 1.6; margin-bottom: 16px;">
-    A memory companion that learns your unique thinking patterns and becomes an extension of how you naturally process information.
-  </p>
-  <p style="color: #86868b; font-size: 15px; margin-bottom: 20px;">
-    Currently in active development, focusing on episodic memory systems and personalized knowledge graphs.
-  </p>
-  <a href="https://neurascribe.ai" style="color: #0071e3; text-decoration: none; font-weight: 500;">
-    Learn more →
-  </a>
-</div>
-
-<div>
-  <h3 style="color: #30d158; font-weight: 600; margin-bottom: 16px;">🔬 Research</h3>
-  <p style="color: #1d1d1f; line-height: 1.6; margin-bottom: 16px;">
-    Advancing retrieval-augmented generation and exploring how cultural context shapes AI behavior and decision-making.
-  </p>
-  <p style="color: #86868b; font-size: 15px; margin-bottom: 20px;">
-    Published work on memory networks, RAG systems, and ethical AI development.
-  </p>
-  <a href="https://www.researchgate.net/profile/Kushagra-Sikka-2" style="color: #30d158; text-decoration: none; font-weight: 500;">
-    View research →
-  </a>
-</div>
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-## Featured Work
-
-<div style="max-width: 800px; margin: 0 auto;">
-
-### **RAG Microservice**
-*Advanced retrieval system achieving 94% accuracy*
-
-Built the foundation for memory-augmented AI using PyTorch and transformer models. This microservice demonstrates how AI can intelligently retrieve and contextualize information in real-time.
-
-<details style="margin: 16px 0 32px 0;">
-<summary style="color: #0071e3; cursor: pointer; font-weight: 500;">View technical details</summary>
-<div style="margin-top: 12px; padding-left: 16px; border-left: 2px solid #d2d2d7;">
-  <ul style="color: #515154; line-height: 1.6;">
-    <li>Vector embeddings with semantic search capabilities</li>
-    <li>Multi-domain knowledge retrieval with 94% accuracy</li>
-    <li>Optimized for real-time inference and scalability</li>
-    <li>Integration with transformer models for contextual understanding</li>
-  </ul>
-</div>
-</details>
-
-[**View on GitHub** →](https://github.com/KushagraSikka/RAG_Microservice-)
-
-<br>
-
-### **Memory-Optimized Systems**
-*Efficient algorithms for real-time memory operations*
-
-Developed high-performance data structures using Red-Black Trees and Min-Heaps, achieving O(log n) complexity for memory allocation and retrieval — principles that directly inform AI memory architecture.
-
-[**View on GitHub** →](https://github.com/KushagraSikka/Gator_taxi_maintenance_)
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-## Technical Foundation
-
-<div style="max-width: 900px; margin: 0 auto;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px;">
-
-<div style="background: #f5f5f7; border-radius: 12px; padding: 24px;">
-  <h4 style="color: #1d1d1f; margin-bottom: 16px; font-weight: 600;">AI & Machine Learning</h4>
-  <p style="color: #515154; font-size: 15px; line-height: 1.5;">
-    PyTorch • TensorFlow • Transformers<br>
-    RAG Systems • Vector Embeddings<br>
-    Knowledge Graphs • Memory Networks
-  </p>
-</div>
-
-<div style="background: #f5f5f7; border-radius: 12px; padding: 24px;">
-  <h4 style="color: #1d1d1f; margin-bottom: 16px; font-weight: 600;">Development</h4>
-  <p style="color: #515154; font-size: 15px; line-height: 1.5;">
-    Python • TypeScript • C++<br>
-    AWS • Docker • Kubernetes<br>
-    Microservices • CI/CD
-  </p>
-</div>
-
-<div style="background: #f5f5f7; border-radius: 12px; padding: 24px;">
-  <h4 style="color: #1d1d1f; margin-bottom: 16px; font-weight: 600;">Specialization</h4>
-  <p style="color: #515154; font-size: 15px; line-height: 1.5;">
-    Episodic Memory Systems<br>
-    Human-AI Interaction<br>
-    Cognitive Architecture
-  </p>
-</div>
-
-</div>
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-## Philosophy
-
-<div style="max-width: 700px; margin: 0 auto; text-align: center;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 48px 32px; color: white; margin: 32px 0;">
-  <h3 style="margin-bottom: 24px; font-size: 28px; font-weight: 300;">Memory as Extension</h3>
-  <p style="font-size: 18px; line-height: 1.6; opacity: 0.95; font-weight: 300;">
-    "The most powerful AI won't think for us — it will help us think better. I'm building technology that amplifies human cognition by understanding how we learn, remember, and connect ideas."
-  </p>
-</div>
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-## Connect
-
-<div align="center" style="margin: 48px 0;">
-  
-  <p style="color: #86868b; font-size: 17px; margin-bottom: 32px;">
-    Interested in the future of human-AI collaboration?
-  </p>
-  
-  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-bottom: 32px;">
-    <a href="https://neurascribe.ai" style="background: #0071e3; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 400;">
-      Visit NeuraScribe
+  <p>
+    <a href="mailto:reachtomustaqsohail@gmail.com">
+      <img src="https://img.shields.io/badge/Email-reachtomustaqsohail@gmail.com-critical?style=flat-square&logo=gmail" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/kushagrasikka/" style="background: #0077b5; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 400;">
-      LinkedIn
+    <a href="tel:9282557208">
+      <img src="https://img.shields.io/badge/Phone-(928)%20255--7208-success?style=flat-square&logo=phone" alt="Phone"/>
     </a>
-    <a href="mailto:kushagra@neurascribe.ai" style="background: #30d158; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 400;">
-      Email
+    <a href="https://www.linkedin.com/in/mustaq-shaik-719001195/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
-  </div>
-  
-  <br>
-  
-  <p style="color: #d2d2d7; font-size: 13px;">
-    Building the future of augmented cognition • Gainesville, FL
   </p>
-  
 </div>
 
----
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KushagraSikka&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <p><i>"The only way to do great work is to love what you do." - Steve Jobs</i></p>
+  <p>Last Updated: <!--#echo var="LAST_MODIFIED" --></p>
+</div>
+```
