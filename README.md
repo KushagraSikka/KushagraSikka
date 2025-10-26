@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Mustaq+Sohail+Shaik!%F0%9F%91%BBSemiconductor+Engineer+Turned+Full+Stack+Developer" alt="Typing SVG" />
   <p><i>"i like neural nets"</i></p>
