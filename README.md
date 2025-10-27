@@ -302,3 +302,11 @@ Volume Server: Nginx
 <p>Profile views: <img src="https://komarev.com/ghpvc/?username=KushagraSikka&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" /></p>
 <p>"The best way to predict the future is to create it." - Peter Drucker</p>
 </div>
+
+
+
+
+<div align="center" style="padding: 24px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=515154&icon_color=0071e3" alt="GitHub Stats" style="border-radius: 8px;">
+</div>
+
